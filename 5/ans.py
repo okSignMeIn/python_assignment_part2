@@ -10,7 +10,3 @@ person1 = Person("Alice", 30)
 
 
 
-from abc import ABC, abstractmethod
-
-
-
