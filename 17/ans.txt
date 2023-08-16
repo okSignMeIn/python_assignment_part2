@@ -1,0 +1,5 @@
+Azure Storage is a cloud-based storage solution offered by Microsoft Azure. It provides a scalable and durable platform for storing a wide variety of data, including structured, semi-structured, and unstructured data. Azure Storage is designed to be highly available, secure, and accessible from anywhere with an internet connection.
+
+Azure Files is a specific service within Azure Storage that offers fully managed file shares in the cloud. It allows you to create file shares that can be accessed using the standard Server Message Block (SMB) protocol, making it easy to migrate applications that rely on file shares to the cloud.
+
+Azure Files is particularly useful in scenarios where you need shared file storage for applications running in the cloud or on-premises. It is commonly used for storing configuration files, user data, logs, and application assets that need to be shared across multiple instances or nodes.

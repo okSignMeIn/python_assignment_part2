@@ -1,0 +1,15 @@
+Azure Files:
+
+Provides shared file storage using the SMB protocol.
+Suitable for applications that require shared file access, such as traditional file-based applications or application configurations.
+Can be mounted as a network drive on Windows and Linux systems.
+Supports directory structures, file permissions, and access control lists (ACLs) like a traditional file system.
+Supports snapshots for point-in-time backups of file shares.
+
+Azure Blobs:
+
+Provides object storage suitable for unstructured data like documents, images, videos, and backups.
+Offers three types of blobs: block blobs, append blobs, and page blobs.
+Does not expose file system semantics like directories or hierarchical structures.
+Ideal for large-scale data storage, data lakes, and scenarios where data is ingested, processed, and analyzed in batch or stream.
+Supports different access tiers to optimize costs based on data usage patterns.
