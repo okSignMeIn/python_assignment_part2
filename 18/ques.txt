@@ -1,0 +1,1 @@
+Discuss the differences between Azure Files and Azure Blobs.

@@ -1,0 +1,81 @@
+1692164650091	geckodriver	INFO	Listening on 127.0.0.1:33741
+1692165456967	geckodriver	INFO	Listening on 127.0.0.1:43381
+1692165701126	geckodriver	INFO	Listening on 127.0.0.1:45195
+1692165869667	geckodriver	INFO	Listening on 127.0.0.1:38895
+1692166214904	geckodriver	INFO	Listening on 127.0.0.1:34741
+1692166215830	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevPeivL"
+Gtk-Message: 11:40:15.878: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692166216659	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1692166216826	Marionette	INFO	Listening on port 37695
+Read port: 37695
+1692166216883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1692166220820	Marionette	INFO	Stopped listening on port 37695
+1692166607463	geckodriver	INFO	Listening on 127.0.0.1:52447
+1692166608358	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileR5vIIQ"
+Gtk-Message: 11:46:48.379: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692166608898	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1692166608975	Marionette	INFO	Listening on port 46143
+Read port: 46143
+1692166609194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1692166629056	geckodriver	INFO	Listening on 127.0.0.1:33343
+1692166629975	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile07A0pB"
+Gtk-Message: 11:47:10.001: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692166630598	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1692166630732	Marionette	INFO	Listening on port 36895
+Read port: 36895
+1692166630921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1692166635546	Marionette	INFO	Stopped listening on port 36895
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c, line 430: Script terminated by timeout at:
+aa.qh@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:430:89
+get@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:428:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:428:87
+aa.xk/c/<@https://www.googletagmanager.com/gtag/js?id=G-K4LEK94WN3&l=dataLayer&cx=c:428:412
+
+1692166640263	Marionette	INFO	Stopped listening on port 46143
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1692166646188	geckodriver	INFO	Listening on 127.0.0.1:45983
+1692166647103	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCaZ74w"
+Gtk-Message: 11:47:27.124: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692166647646	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1692166647725	Marionette	INFO	Listening on port 45379
+Read port: 45379
+1692166647925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1692166652795	Marionette	INFO	Stopped listening on port 45379

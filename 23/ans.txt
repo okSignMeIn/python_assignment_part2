@@ -1,0 +1,1 @@
+Selenium WebDriver is a powerful tool for automating web browsers, enabling you to interact with web pages, simulate user actions, and perform automated testing. Selenium IDE, on the other hand, is a simpler record-and-playback tool primarily used for creating automated tests without writing code.

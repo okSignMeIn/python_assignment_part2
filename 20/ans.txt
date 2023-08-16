@@ -1,0 +1,5 @@
+Beautiful Soup is a Python library used for web scraping and parsing HTML and XML documents. It provides a convenient interface to navigate and search the parsed document's elements. Comparing it to other parsing libraries:
+
+lxml: lxml is a high-performance library for processing XML and HTML. It is well-suited for large documents and provides both a SAX and ElementTree API. It requires external C libraries for parsing.
+
+html5lib: html5lib is a pure Python library that aims to parse HTML5 documents as per the official specification. It is generally slower than lxml but handles malformed HTML better.

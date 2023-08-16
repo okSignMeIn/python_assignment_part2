@@ -1,0 +1,1 @@
+Class variables are shared among all instances of a class and are defined at the class level. Instance variables are unique to each instance and are defined within the constructor using the self keyword.

@@ -1,0 +1,1 @@
+Design a banking system using OOP principles. Create classes for customers, accounts, transactions, and a bank manager. Implement features like balance inquiry, funds transfer, and transaction history. Utilize inheritance and encapsulation effectively.

@@ -1,0 +1,4 @@
+Encapsulation: Bundling data (attributes) and methods (functions) that operate on the data into a single unit (class). 
+Abstraction: Simplifying complex reality by modeling classes based on their essential characteristics and hiding unnecessary details. 
+Inheritance: Allowing a new class (subclass) to inherit properties and behaviors from an existing class (superclass). 
+Polymorphism: Providing a single interface for different data types or classes, enabling flexibility and code reuse.

@@ -1,0 +1,1 @@
+Explain the concept of an abstract base class and how it is created using the abc module

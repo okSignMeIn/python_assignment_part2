@@ -1,0 +1,1 @@
+How does the __init__ method work in a class? Provide an example.

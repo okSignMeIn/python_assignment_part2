@@ -1,0 +1,1 @@
+Provide a step-by-step example of automating a login process using Selenium.

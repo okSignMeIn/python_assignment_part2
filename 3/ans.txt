@@ -1,0 +1,1 @@
+For creating a requirements.txt file, we can use pip freeze > requirements.txt. This command will generate a requirements.txt file containing a list of installed packages and their versions. It is useful for ensuring consistent environments across different systems and for sharing project requirements with others

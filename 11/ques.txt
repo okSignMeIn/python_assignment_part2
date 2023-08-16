@@ -1,0 +1,1 @@
+How can you resolve the Diamond Problem in multiple inheritance?

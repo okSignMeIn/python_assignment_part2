@@ -1,0 +1,1 @@
+Suppose we want to model a "Smartphone" class that inherits features from both a "Phone" and a "Computer." Then in this case it will be beneficial as smartphone will have methods inherited from both the classes

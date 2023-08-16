@@ -1,0 +1,1 @@
+Magic methods, also known as dunder methods, are used to define how objects of a class behave with built-in Python operations. Magic methods play a crucial role in operator overloading because they allow you to define the behavior of operators when used with instances of your custom class.

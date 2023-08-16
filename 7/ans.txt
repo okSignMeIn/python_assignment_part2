@@ -1,0 +1,4 @@
+Single Inheritance: A subclass inherits from a single base class. 
+Multiple Inheritance: A subclass inherits from multiple base classes. 
+Multilevel Inheritance: A chain of inheritance where a subclass inherits from a base class, and then another subclass inherits from that subclass. 
+Hierarchical Inheritance: Multiple subclasses inherit from a single base class.

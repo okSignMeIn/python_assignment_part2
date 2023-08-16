@@ -1,0 +1,1 @@
+Provide a real-world scenario where multiple inheritance would be beneficial.

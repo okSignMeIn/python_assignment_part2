@@ -1,0 +1,1 @@
+Demonstrate how to navigate the HTML tree structure using Beautiful Soup's methods.

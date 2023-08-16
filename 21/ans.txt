@@ -1,0 +1,1 @@
+Beautiful Soup is designed to handle poorly formatted HTML by using a lenient parsing approach. It attempts to create a valid parse tree even if the input HTML is not strictly compliant with standards. This leniency makes Beautiful Soup a popular choice when dealing with real-world HTML found on the web, which often contains errors or inconsistencies.

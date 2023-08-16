@@ -1,0 +1,1 @@
+Discuss the differences between class variables and instance variables.

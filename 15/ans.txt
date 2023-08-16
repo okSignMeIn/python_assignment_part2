@@ -1,0 +1,2 @@
+Best practices - Clear documentation, consistent, optimization and testing should be done
+Pitfalls - Unexpected behaviour, unnecessary overhead, global impact is created 

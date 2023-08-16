@@ -1,0 +1,1 @@
+Explicit Waits in Selenium are used to wait for a certain condition to be met before proceeding with the test. This is useful when dealing with dynamic web content or elements that may take some time to load or become interactable. Explicit Waits allow you to specify a maximum time to wait and a condition to wait for (e.g., an element to be visible, clickable, etc.).

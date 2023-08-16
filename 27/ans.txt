@@ -1,0 +1,5 @@
+venv: venv is a built-in virtual environment tool that comes with Python 3.3 and later. It's lightweight and effectively isolates your project's Python environment. It is simple to use but lacks some advanced features compared to other tools.
+
+virtualenv: virtualenv is a third-party package that can be installed and used across different versions of Python. It offers more features and flexibility than venv, such as creating environments with different Python versions, but it requires installation separately.
+
+conda: conda is a cross-platform package and environment manager for various programming languages, including Python. It can create and manage isolated environments with specific package versions and dependencies. It also handles non-Python packages and is well-suited for scientific computing and data analysis.

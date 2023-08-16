@@ -1,0 +1,1 @@
+The Diamond Problem in multiple inheritance arises when a subclass inherits from two classes that have a common superclass. It's again resolved by the MRO rules according to which, we search for a method inside the calling object's class, then going to it's base classes, and then going to their base classes and so on
